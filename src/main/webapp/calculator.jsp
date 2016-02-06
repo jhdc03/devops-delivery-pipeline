@@ -18,5 +18,9 @@ Math m = new Math();
 <br>
 <%="2 + 2 = " + m.add(2, 2)%>
 <br>
+<%="3 - 3 = " + m.sub(3, 3)%>
+<br>
+<%="4 x 4 = " + m.add(4, 4)%>
+<br>
 </body>
 </html>
